@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Higo-Souza
-- 👀 I’m interested in um dia trabalhar com desenvolvimento Mobile.
+- 👀 I’m interested in Trabalhar com Desenvolvimento Mobile.
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate em Desenvolvimento de software móvel.
 - 📫 How to reach me - franciscohigo12@gmail.com
