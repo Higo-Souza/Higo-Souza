@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Higo-Souza
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in um dia trabalhar com desenvolvimento Mobile.
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate em Desenvolvimento de software móvel.
 - 📫 How to reach me - franciscohigo12@gmail.com
 
 <!---
